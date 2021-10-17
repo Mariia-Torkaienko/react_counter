@@ -1,0 +1,2 @@
+.App{display:flex;flex-direction:column;text-align:center;align-items:center;justify-content:center}h1{color:#0a07a1}.Button{height:50px;width:180px;font-size:20px;margin-bottom:10px;padding:10px;color:#dfecf0;border-radius:8px;border:1px solid #add8e6;background-color:#020274;transition:-webkit-transform .3s;transition:transform .3s;transition:transform .3s,-webkit-transform .3s}.Button:hover{color:red;-webkit-transform:scale(1.1);transform:scale(1.1);background-color:#01018f;box-shadow:3px 4px #add8e6}
+/*# sourceMappingURL=main.aa98d1c4.chunk.css.map */
